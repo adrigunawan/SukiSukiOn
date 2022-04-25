@@ -1,0 +1,20 @@
+backend 
+
+npm init
+1. nodemon
+2. express
+3. dotenv
+4. mysql 
+5. body-pharse
+
+frontend
+
+1. boostrap
+2. javascript
+3. react-js
+
+flow
+
+1. user dapat login/register terlebih dulu sebelum memasuki halaman
+2. setelah user sudah  mendaftar melihat wanita yang ingin dikencan 
+3. setelah user memilih. User menyiapkan tanggal dan waktu 
